@@ -1,4 +1,4 @@
-# AngularTuts
+# AngularTuts by shamsTheCoder
 Hey there this is [shamsTheCoder](https://github.com/shamsTheCoder).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
