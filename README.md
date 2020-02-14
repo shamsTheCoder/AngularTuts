@@ -1,5 +1,5 @@
 # AngularTuts
-Hey there this is `shamsTheCoder`
+Hey there this is [shamsTheCoder](https://github.com/shamsTheCoder).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
 ## Development server
